@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"scss": "sass ./public/scss/theme.scss:./public/css/theme.css --watch --style compressed --no-source-map",
+		"start": "php -S localhost:8000"
+	},
+
+	"dependencies": {
+		"sass": "^1.58.3"
+	}
+}

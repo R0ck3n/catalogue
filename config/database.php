@@ -1,6 +1,8 @@
-<?php return [
+<?php
+
+return [
 'host' => 'localhost',
-'dbname' => 'project',
+'dbname' => 'calendrier',
 'user' => 'root',
 'password' => ''
 ];

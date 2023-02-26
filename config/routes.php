@@ -9,4 +9,9 @@ return [
         'controllers\HomeController',
         'index'
     ],
+    '/catalogue/' => [
+        'controllers\CatalogueController',
+        'displayCatalogue'
+    ],
+
 ];
